@@ -1,0 +1,9 @@
+Parameters pass from the config.properties fie which we need to update before execution
+
+we can provide multiple options in runner class to execute the test case
+
+in case of large volume of data, we can implement the functionality of using excel file to pass the data
+
+we can add screenshot functionality for every execution
+
+we can implement highlight and time stamp functionality in the framework to get more detailed report
